@@ -8,3 +8,13 @@ If you have ever been in the market for something to power all your projects but
 
 {% include embed.html url="https://www.youtube.com/watch?v=sdxZq-znpYU" %}
 
+Your `_config.yml` could for example look like this:
+
+```yaml
+title: "Blog Title"
+author: "Blog Author"
+description: "My personal blog about ... something"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
