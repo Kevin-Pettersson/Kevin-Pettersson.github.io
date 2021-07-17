@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Breadboard Power Supply"
+title: "Home"
 permalink: "/products/"
 layout: page
 ---
