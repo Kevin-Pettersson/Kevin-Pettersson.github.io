@@ -4,7 +4,14 @@ permalink: "/breadboard/"
 layout: page
 ---
 
-If you have ever been in the market for something to power all your projects but prefer to use something to use something small and protable then look no further. My power supply can supply voltages from 3.3 V all the way up to 25 V therby eliminating the need for big, chunky expensive power supplies, my solution runs on USB-C and only requires 5 V 1 A input.    
+If you have ever been in the market for something to power all your projects but prefer to use something small and portable then look no further. My power supply can supply voltages from 3.3 V all the way up to 25 V therby eliminating the need for a big, chunky and expensive power supplie, my solution runs on USB-C and only requires 5 V 1 A input. The power supply is as small as the cheap chinese ones which can only handle 3.3 V or 5 V poorly. 
+
+Technial Specification:
+* USB-C input, can be powered via computer or phone charger etc 
+* Short circuit, over current, over temperature and in rush protection
+* Soft start
+* Programmable voltage indicator 
+* Small size 
 
 {% include embed.html url="https://youtu.be/sdxZq-znpYU" %}
 
