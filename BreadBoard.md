@@ -15,7 +15,7 @@ Technial Specification:
 
 {% include embed.html url="https://youtu.be/sdxZq-znpYU" %}
 
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+{% include embed.html url="https://www.youtube.com/watch?v=wX-T2Ao3vIg" %}
 
 
 ## Installation (jekyll-remote-theme method)
