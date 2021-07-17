@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Breadboard Power Supply"
-permalink: "/breadboard/"
+permalink: "/products/"
 layout: page
 ---
 
