@@ -2,5 +2,8 @@
 layout: default
 title: "Home"
 ---
-
-## Testing
+{% if site.show_excerpts %}
+  {% include Home.md %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
