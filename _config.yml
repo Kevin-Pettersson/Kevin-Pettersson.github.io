@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Products"}
   - {file: "README.md", title: "About"}
   - {file: "BreadBoard.md", title: "Breadboard"}
+  - {file: "slingTestare.md", title: "Robotic Lawnmower"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:k337364@gmail.com"}
