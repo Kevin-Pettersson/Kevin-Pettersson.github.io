@@ -7,7 +7,6 @@ layout: page
 ## About Me
 20 year old Electrical engineering student at KTH in Sweden. 
 
-
 ## Installation (jekyll-remote-theme method)
 
 You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
