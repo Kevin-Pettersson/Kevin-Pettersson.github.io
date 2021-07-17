@@ -13,7 +13,7 @@ Technial Specification:
 * Programmable voltage indicator 
 * Small size 
 
-{% include embed.html url="https://youtu.be/sdxZq-znpYU" %}
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 {% include embed.html url="https://www.youtube.com/watch?v=wX-T2Ao3vIg" %}
 
