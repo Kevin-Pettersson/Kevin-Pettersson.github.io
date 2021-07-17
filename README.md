@@ -1,10 +1,9 @@
 ---
-title: "About"
+title: "About Me"
 permalink: "/about/"
 layout: page
 ---
 
-## About Me
 20 year old Electrical engineering student at KTH in Sweden. 
 
 ## Installation (jekyll-remote-theme method)
