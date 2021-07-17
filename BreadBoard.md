@@ -8,14 +8,14 @@ If you have ever been in the market for something to power all your projects but
 
 
 Technial Specification:
-* USB-C input, can be powered via computer or phone charger etc 
+* USB-C, can be powered via computer or phone charger etc 
 * Short circuit, over current, over temperature and in-rush protection
 * Soft start
 * Programmable voltage indicator 
 * Small size 
 
 ## Usage
-To use the power supply simply plug it into the breadboard and connect a usb c power source thats it. The voltage adjustments have been split into two seperate functions, the right hand power rail will supply either 3.3 V or 5 V (selected via the switch (labeled 3,3/5V) in the right top corner) and to adjust the left hand sides voltage, simply turn the potentiometer (labeled VOLTAGE_ADJ) and the voltage will be displayed by the 5 LEDs located at bottom of the PCB. 
+To use the power supply simply push it into the breadboard and connect a usb c power source thats it. The voltage adjustments have been split into two seperate functions, the right hand power rail will supply either 3.3 V or 5 V (selected via the switch (labeled 3,3/5V) in the right top corner) and to adjust the left hand sides voltage, simply turn the potentiometer (labeled VOLTAGE_ADJ) and the voltage will be displayed by the 5 LEDs located at bottom of the PCB. 
 
 
 ## Reprogramming the voltage indicator
