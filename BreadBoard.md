@@ -8,17 +8,16 @@ If you have ever been in the market for something to power all your projects but
 
 Technial Specification:
 * USB-C input, can be powered via computer or phone charger etc 
-* Short circuit, over current, over temperature and in rush protection
+* Short circuit, over current, over temperature and in-rush protection
 * Soft start
 * Programmable voltage indicator 
 * Small size 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+## Usage
+To use the power supply simply plug it into the breadboard and connect a usb c power source thats it. The voltage adjustments have been split into two seperate functions, the right hand power rail will supply either 3.3 V or 5 V (selected via the switch (labeled 3,3/5V) in the right top corner) and to adjust the left hand sides voltage, simply turn the potentiometer (labeled VOLTAGE_ADJ) and the voltage will be displayed by the 5 LEDs located at bottom of the PCB. 
 
-{% include embed.html url="https://www.youtube.com/watch?v=wX-T2Ao3vIg" %}
 
-
-## Installation (jekyll-remote-theme method)
+## Reprogramming the voltage indicator
 
 You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
@@ -29,6 +28,5 @@ plugins:
   - jekyll-remote-theme
 ```
 
-Note: to enable icons you also need to copy over the `_data` folder.
 
-## Config
+
