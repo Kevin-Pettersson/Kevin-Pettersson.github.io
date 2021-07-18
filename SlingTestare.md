@@ -4,6 +4,9 @@ permalink: "/lawnmower/"
 layout: page
 ---
 test 
+
+{% include embed.html url="https://www.youtube.com/embed/sdxZq-znpYU" %}
+
  <iframe width="560" height="315"
 src="https://www.youtube.com/embed/MUQfKFzIOeU" 
 frameborder="0" 
