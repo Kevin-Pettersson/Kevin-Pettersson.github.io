@@ -4,7 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-20 year old Electrical engineering student at KTH in Sweden. 
+Im a 21 year old electrical engineering student at KTH in Sweden who has a passion for electronics, on my freetime i like to build and create things and some of thoose things might be of use to others, these are the products on this website.  
+
+If you need a custom PCB or something modelled in 3D contact me and we will surely be able to figure something out.
 
 ## Installation (jekyll-remote-theme method)
 
